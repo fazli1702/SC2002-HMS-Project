@@ -1,0 +1,4 @@
+hospitalID,name,email,phoneNumber,age,gender,DOB,bloodType
+1005,Alice Brown,alice.brown@example.com,12344321,33,FEMALE,14-05-2024,O+
+1006,Bob Stone,bob.stone@example.com,97863542,23,MALE,22-11-1975,B+
+1007,Charlie White,charlie.white@example.com,89674523,55,MALE,08-07-1977,A-

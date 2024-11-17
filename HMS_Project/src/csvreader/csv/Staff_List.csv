@@ -1,0 +1,4 @@
+hospitalID,name,email,userType,phoneNumber,age,gender,salary
+1001,John Smith,john@mail.com,DOCTOR,12345678,20,MALE, 5000 
+1003,Mark Lee,mark@mail.com,PHARMACIST,432128765,30,MALE,7000 
+1004,Sarah Lee,sarah@mail.com,ADMINISTRATOR,87651234,35,FEMALE,8000
